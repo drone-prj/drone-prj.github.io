@@ -1,5 +1,5 @@
 
-# Learning how to customize Hugo's Syna theme. 
+# Learning how to customize Hugo's Syna theme by apacheco.
 
 # Syna Start
 
