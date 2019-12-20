@@ -1,3 +1,6 @@
+
+# Learning how to customize Hugo's Syna theme. 
+
 # Syna Start
 
 This is a sample project that can be used to jump start your Syna project. It uses Syna theme and Hugo with sample files that introduce two simple pages, one for landing and one for the about page.
